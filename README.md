@@ -1,4 +1,4 @@
-# The fastest port tcp scanner
+# Instagram Commenter
 
 > [!WARNING]  
 > This is an educational project, I am not responsible for any use
